@@ -22,6 +22,8 @@ endif()
 install(
   DIRECTORY
     launch
+    models
+    photos
     rviz
     urdf
     worlds
